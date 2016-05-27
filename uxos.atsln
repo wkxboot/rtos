@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "uxos", "uxos\uxos.cproj", "{96115772-96F7-4972-99C2-3E4D377B68DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96115772-96F7-4972-99C2-3E4D377B68DC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{96115772-96F7-4972-99C2-3E4D377B68DC}.Debug|AVR.Build.0 = Debug|AVR
+		{96115772-96F7-4972-99C2-3E4D377B68DC}.Release|AVR.ActiveCfg = Release|AVR
+		{96115772-96F7-4972-99C2-3E4D377B68DC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
